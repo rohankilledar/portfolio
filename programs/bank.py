@@ -1,3 +1,7 @@
+# the date is provided in dd--mm--yyyy format
+# if there are 3 or more transactions in a month then no fee
+# a fee of 5 is charged if there are no transactions in a month that sums up to 100
+# 
 import re
 from collections import defaultdict
 

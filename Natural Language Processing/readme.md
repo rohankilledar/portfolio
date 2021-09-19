@@ -1,0 +1,2 @@
+-- Disaster Tweet is a introductory problem in NLP and dataset is taken from Kaggle
+-- Sentiment analysis deals with movie review and I've tried various techniques to find the predicted sentiment based on given movie review.

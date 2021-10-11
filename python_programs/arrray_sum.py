@@ -5,3 +5,7 @@ def arraySum(arr):
         if(sum(arr[:indx])==sum(arr[indx+1:])):
             return indx
     return False
+
+if __name__ == "__main__":
+    sample_arr = [4,3,6,5,2]
+    print(arraySum(sample_arr))

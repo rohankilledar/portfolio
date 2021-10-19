@@ -7,5 +7,5 @@ def arraySum(arr):
     return False
 
 if __name__ == "__main__":
-    sample_arr = [4,3,6,5,2]
+    sample_arr = [4,1,3,6,5,2,1]
     print(arraySum(sample_arr))

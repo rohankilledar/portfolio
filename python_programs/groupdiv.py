@@ -17,6 +17,8 @@ import sys
 #  2. INTEGER maxSpread
 #
 
+#write a function to divide a class of student into groups based on their skill level given as an array and max spread that is allowed in each group
+
 def groupDivision(levels, maxSpread):
     
     levels.sort()

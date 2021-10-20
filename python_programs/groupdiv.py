@@ -31,13 +31,15 @@ def groupDivision(levels, maxSpread):
         if levels[i+1] in range(group[0],group[0]+maxSpread+1):
             group.append(levels[i+1])
             i+=1
+        
         else:
             classes.append(group)
             group =[levels[i+1]]
             i+=1
-            
+        
+    classes.append(group)     
           
-    return len(classes)+1
+    return len(classes)
         
     
 if __name__ == '__main__':

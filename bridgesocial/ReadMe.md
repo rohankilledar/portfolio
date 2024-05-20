@@ -33,4 +33,5 @@ Alternatively you can use:
 docker-compose up -d
 ```
 
-![Alt text](/bridgesocial/upload.jpg?raw=true "upload screen")
+![Alt text](bridgesocial/upload.jpg?raw=true "upload screen")
+

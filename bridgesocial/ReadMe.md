@@ -33,7 +33,7 @@ Alternatively you can use:
 docker-compose up -d
 ```
 
-![Alt text](bridgesocial/upload.jpg?raw=true "upload screen")
+![Upload Screen](upload.jpg)
 ![Output](output.jpg)
 
 

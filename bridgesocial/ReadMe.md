@@ -35,3 +35,9 @@ docker-compose up -d
 
 ![Alt text](bridgesocial/upload.jpg?raw=true "upload screen")
 
+[url=https://postimg.cc/PpKGgt2v][img]https://i.postimg.cc/PpKGgt2v/Screenshot-2024-05-20-at-04-59-06.png[/img][/url]
+
+[url=https://postimg.cc/G8bwgBJ1][img]https://i.postimg.cc/G8bwgBJ1/Screenshot-2024-05-20-at-04-59-23.png[/img][/url]
+
+
+

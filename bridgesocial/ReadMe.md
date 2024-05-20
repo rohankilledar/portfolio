@@ -6,6 +6,9 @@
 - There can be some information missing from the JSON.
 
 ## How to Run the App
+
+#Please update the openai API key in Dockerfile env.
+
 To run this app, please clone this repo and run the `restart.sh` script if you are on macOS. This script takes care of cleanup and opens the web app if docker run was successful. Otherwise, please follow the commands below:
 
 1. Build a Docker image:

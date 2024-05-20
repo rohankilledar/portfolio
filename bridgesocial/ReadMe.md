@@ -32,3 +32,5 @@ Alternatively you can use:
 ```bash
 docker-compose up -d
 ```
+
+![Alt text](/upload.jpg?raw=true "upload screen")

@@ -27,7 +27,7 @@ COPY . /app
 ENV TESSDATA_PREFIX=/usr/share/tesseract-ocr/5/tessdata/
 
 # Set the environment variable for the OpenAI API key
-ENV OPENAI_API_KEY sk-troubleshoot-extractor-Rsnb5TYuHojqV3qzYv4CT3BlbkFJGNivqllUanoCs2aYgvsf
+ENV OPENAI_API_KEY YOUR_OPENAI_API_KEY
 
 # Run the FastAPI application
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]

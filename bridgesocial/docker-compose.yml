@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  fastapi-ocr-app:
+    image: fastapi-ocr-app
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=sk-troubleshoot-extractor-Rsnb5TYuHojqV3qzYv4CT3BlbkFJGNivqllUanoCs2aYgvsf
+#     secrets:
+#       - openai_api_key
+
+# secrets:
+#   openai_api_key:
+#     external: true
